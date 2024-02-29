@@ -5,7 +5,7 @@ A repository featuring my google sheets budget templates.
 ### Prereqs
 
 - Google Sheets
-- (Dark Reader)[https://darkreader.org/]
+- [Dark Reader](https://darkreader.org/)
 
 ### Installation
 

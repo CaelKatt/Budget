@@ -1,12 +1,9 @@
 # My Budget Sheets / Configurations 
-
 A repository featuring my google sheets budget templates. 
 
 ### Prereqs
-
 - Google Sheets
 - [Dark Reader](https://darkreader.org/)
 
-### Installation
+### Screenshots
 
-1. **Debian Installation:**

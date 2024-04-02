@@ -13,9 +13,8 @@ A repository featuring my custom google sheets budget templates, created because
 - [Dark Reader](https://darkreader.org/)
 
 ### Download/Use
-https://docs.google.com/spreadsheets/d/1xz0Hi-uGCFNWaPE4RMlZoUvMX4vHm0jbnbPr-5qjmog/edit?usp=sharing
-
-
+[Mockup (Fake Data)](https://docs.google.com/spreadsheets/d/1xz0Hi-uGCFNWaPE4RMlZoUvMX4vHm0jbnbPr-5qjmog/edit?usp=sharing)
+[Blank](https://docs.google.com/spreadsheets/d/1p4NLnimdcKDlC9nB23JMLMIcpHk4CzS9Y-446iq7LMM/edit?usp=sharing)
 
 ### Screenshots
 #### Year Overview

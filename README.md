@@ -14,3 +14,7 @@ A repository featuring my custom google sheets budget templates, created because
 
 ### Screenshots
 
+![1]([http://url/to/img.png](https://github.com/CaelKatt/Budget/blob/main/dash1.png))
+![2]([http://url/to/img.png](https://github.com/CaelKatt/Budget/blob/main/dash2.png))
+![3]([http://url/to/img.png](https://github.com/CaelKatt/Budget/blob/main/dash3.png))
+![4]([http://url/to/img.png](https://github.com/CaelKatt/Budget/blob/main/dash4.png))

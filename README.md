@@ -18,16 +18,16 @@ A repository featuring my custom google sheets budget templates, created because
 ![Dashboard 1](https://github.com/CaelKatt/Budget/blob/main/dash1.png?raw=true "Dashboard 1")
 
 
-#### Year Overview
+#### Savings
 
 ![Dashboard 2](https://github.com/CaelKatt/Budget/blob/main/dash2.png?raw=true "Dashboard 2")
 
 
-#### Year Overview
+#### Subscriptions
 
 ![Dashboard 3](https://github.com/CaelKatt/Budget/blob/main/dash3.png?raw=true "Dashboard 3")
 
 
-#### Year Overview
+#### Month
 
 ![Dashboard 4](https://github.com/CaelKatt/Budget/blob/main/dash4.png?raw=true "Dashboard 4")
